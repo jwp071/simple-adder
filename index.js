@@ -1,7 +1,7 @@
 const http = require("http");
 
 const host = 'localhost';
-const port = process.env.PORT || 8000;
+const port = process.env.PORT || 3000;
 
 const requestListener = function (req, res) {
     res.setHeader("Content-Type", "application/json");
