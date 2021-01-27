@@ -1,0 +1,20 @@
+{
+  "name": "simple-adder",
+  "version": "1.0.0",
+  "description": "HTTP Server to add numbers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwp071/simple-adder.git"
+  },
+  "author": "Jeff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwp071/simple-adder/issues"
+  },
+  "homepage": "https://github.com/jwp071/simple-adder#readme"
+}
